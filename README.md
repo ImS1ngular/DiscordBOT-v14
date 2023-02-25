@@ -5,7 +5,7 @@
 
 
 
-## <a name="new-bot"></a>Como instalar o DiscordBot? 
+## <a name="novo-bot"></a>Como instalar o DiscordBot? 
 
 
 #### 1. Dê fork no repositório
